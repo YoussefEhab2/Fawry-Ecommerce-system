@@ -1,12 +1,12 @@
-Fawry Quantum Bookstore -Java Project
+#Fawry Quantum Bookstore -Java Project
 ---------------------------------------
-Overview:
+##Overview:
 ----------
 1.Supported book types:
   1.Paperbook
   2.Ebook
   3.DemoBook
-Features:
+##Features:
 ---------
 -Add Books to Inventory
 -Remove outdated books
@@ -17,7 +17,7 @@ Features:
  *Purchasing
 -Throw errors when Book is out of stock,unpurchasable or doesn't exist
 
-Project Structure:
+##Project Structure:
 -------------------
 ```
 src/

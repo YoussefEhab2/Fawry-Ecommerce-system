@@ -19,6 +19,7 @@ Features:
 
 Project Structure:
 -------------------
+```
 src/
 ├── Book/
 │   ├── Book.java
@@ -38,7 +39,7 @@ src/
 ├── Shippable/
 │   └── Shippable.java
 └── Main.java
-
+```
 Screenshot:
 -----------
 ![image](https://github.com/user-attachments/assets/42112967-5fc7-45f8-a90a-b4f68db973a2)

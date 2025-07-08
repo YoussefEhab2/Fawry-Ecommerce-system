@@ -1,23 +1,23 @@
-#Fawry Quantum Bookstore -Java Project
----------------------------------------
-##Overview:
-----------
-1.Supported book types:
-  1.Paperbook
-  2.Ebook
-  3.DemoBook
-##Features:
----------
--Add Books to Inventory
--Remove outdated books
--Buy a Book
--Services:
- *Shipping
- *Mail
- *Purchasing
--Throw errors when Book is out of stock,unpurchasable or doesn't exist
+# Fawry Quantum Bookstore - Java Project
 
-##Project Structure:
+## Overview
+
+**Supported book types:**
+1. Paperbook
+2. Ebook
+3. DemoBook
+
+**Features:**
+- Add Books to Inventory
+- Remove outdated books
+- Buy a Book
+- Services:
+  - Shipping
+  - Mail
+  - Purchasing
+- Throw errors when Book is out of stock, unpurchasable, or doesn't exist
+
+## Project Structure
 -------------------
 ```
 src/
